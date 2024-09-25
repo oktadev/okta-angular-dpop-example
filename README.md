@@ -27,8 +27,8 @@ This repository contains a working example of migrating an Angular app to use DP
 To run this example, run the following commands:
 
 ```bash
-git clone https://github.com/oktadev/okta-angular-standalone-runtime-config-example.git
-cd okta-angular-standalone-runtime-config-example
+git clone https://github.com/oktadev/okta-angular-dpop-example.git
+cd okta-angular-dpop-example
 npm ci
 ```
 
